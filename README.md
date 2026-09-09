@@ -18,7 +18,7 @@
 
 <br/>
 
-## 👤 About
+## About
 
 <table>
 <tr>
@@ -28,10 +28,10 @@ I'm a **B.Sc. IT student and software developer** who enjoys turning ideas into 
 
 Currently focused on **DSA with Python**, modern web development, and building projects that help me understand how real systems work.
 
-- 🔭 Working on **ShipCheck**
-- 🌱 Learning **MongoDB**
-- 💼 Open to **freelance / internships / collaborations**
-- ⚡ Fun fact: **I start with "just a small project" and somehow build a whole system**
+-  Working on **ShipCheck**
+-  Learning **MongoDB**
+-  Open to **freelance / internships / collaborations**
+-  Fun fact: **I start with "just a small project" and somehow build a whole system**
 
 </td>
 <td width="40%" valign="top">
@@ -56,19 +56,19 @@ DSA • Web • Systems
 
 <br/>
 
-## 🔥 Languages, Frameworks & Tools 🔥
+##  Languages, Frameworks & Tools 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/> <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=fff"/> <img src="https://img.shields.io/badge/React_Native-087EA4?style=flat-square&logo=react&logoColor=fff"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=fff"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=fff"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=fff"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=fff"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000"/>
 
 <br/><br/>
 
-**🚀 Deployment**
+** Deployment**
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff"/>
 
 <br/>
 
-## ⚡ Stats ⚡
+##  Stats 
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-2827&hide_border=true&background=1B1B1F&ring=F97316&fire=F97316&currStreakLabel=F97316&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E"/>
@@ -82,7 +82,7 @@ DSA • Web • Systems
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
