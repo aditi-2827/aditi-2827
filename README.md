@@ -62,26 +62,6 @@ DSA • Web • Systems
 
 <br/><br/>
 
-** Deployment**
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff"/>
-
-<br/>
-
-##  Stats 
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-2827&hide_border=true&background=1B1B1F&ring=F97316&fire=F97316&currStreakLabel=F97316&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aditi-2827&show_icons=true&hide_border=true&bg_color=1B1B1F&title_color=F97316&icon_color=F97316&text_color=FFFFFF" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi-2827&layout=compact&hide_border=true&bg_color=1B1B1F&title_color=F97316&text_color=FFFFFF" height="165"/>
-</div>
-
-<br/>
-
 ##  Featured Projects
 
 <table>
