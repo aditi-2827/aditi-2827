@@ -37,7 +37,7 @@ Currently focused on **DSA with Python**, modern web development, and building p
 <td width="40%" valign="top">
 
 ```txt
-> whoami
+> who ami
 Aditi Prajapati
 
 > location
