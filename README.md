@@ -28,7 +28,6 @@ I'm a **B.Sc. IT student and software developer** who enjoys turning ideas into 
 
 Currently focused on **DSA with Python**, modern web development, and building projects that help me understand how real systems work.
 
--  Working on **ShipCheck**
 -  Learning **MongoDB**
 -  Open to **freelance / internships / collaborations**
 -  Fun fact: **I start with "just a small project" and somehow build a whole system**
